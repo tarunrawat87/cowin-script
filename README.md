@@ -29,8 +29,9 @@ const from='+232132132321'//edit your no what you got from twillo
 
 # Screenshots
 
+![Uploading twillo.png…]()
 
-![image](https://user-images.githubusercontent.com/11371575/117865478-a1e59580-b2b3-11eb-8fb4-9ac4475c8e78.png)
+
 
 
 
