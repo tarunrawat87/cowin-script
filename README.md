@@ -37,5 +37,6 @@ const from='+232132132321'//edit your no what you got from twillo
 
 You can try to get phone number here https://www.twilio.com/console/phone-numbers/search
 
+Ps: This script only notify in real time . It doesn't book the slot
 
 If you need any more help please mail me tarunrawat8787@gmail.com
