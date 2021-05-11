@@ -24,6 +24,7 @@ Once done Please make two change in script.js
 Eg.
 
 const to='+919876543210'; //edit your no you want to be called on
+
 const from='+232132132321'//edit your no what you got from twillo
 
 
