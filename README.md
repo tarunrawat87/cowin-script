@@ -1,7 +1,7 @@
 # cowin-script
 This script help in faster vaccine registration
 
-#How it works
+# How it works
 It will call you on the phone once there is available slots
 There are existing solutions available but those might not working due rate limiting*
 
