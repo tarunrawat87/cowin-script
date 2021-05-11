@@ -1,6 +1,8 @@
 # cowin-script
 This script help in faster vaccine registration
 
+# This script will only notify in real time ,it won't book the slot for you
+
 # How it works
 It will call you on the phone once there is available slots
 There are existing solutions available but those might not working due rate limiting*
@@ -37,6 +39,6 @@ const from='+232132132321'//edit your no what you got from twillo
 
 You can try to get phone number here https://www.twilio.com/console/phone-numbers/search
 
-Ps: This script only notify in real time . It doesn't book the slot
+
 
 If you need any more help please mail me tarunrawat8787@gmail.com
