@@ -1,3 +1,5 @@
+#No More Maintained : Will not work Anymore
+
 # cowin-script
 This script help in faster vaccine registration
 
